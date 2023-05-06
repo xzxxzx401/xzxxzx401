@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 I’m currently working at [Sogou](https://github.com/sogou)
-<a href="http://corp.sogou.com/">
-  <img align="bottom" src="https://dlweb.sogoucdn.com/pcsearch/web/index/images/logo_150x58_0192f43.png" />
+🔭 I’m currently working at [Hantak](http://hantak.cn/website/w/h)
+<a href="http://hantak.cn/website/w/h">
+  <img align="bottom" src="http://file.simu800.com/prod/5378825/webSiteCompanyLogo/4a2de311a35b4beab5c8fa9464fc4247.png" width="30%" height="30%"/>
 </a>
 
-🌱 I’m currently working on web indexing system
+🌱 I’m currently working as a quant developer
 
 😁 😆 😊
 
